@@ -1,0 +1,3 @@
+/cygdrive/d/Desktop/main/BUAA/科研/科研课堂/workspace/Initial/cmake-build-debug/CMakeFiles/Initial.dir
+/cygdrive/d/Desktop/main/BUAA/科研/科研课堂/workspace/Initial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Desktop/main/BUAA/科研/科研课堂/workspace/Initial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
